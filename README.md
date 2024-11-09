@@ -17,10 +17,4 @@
 -----------------------------------------------
 ![](https://github.com/Intikam21kurucu/intframework/blob/43b69f75b8bce99b2300ce8c885f314cb4da0c30/lv_0_20240504124041.gif)
 
------------------------------------------------
-
-# BİZİM HAKKIMIZDA DETAYLI BİLGİLER
-# TURKİSH TEAM / TURK TAKIMI 
-**KURUCU**: **ARES CYBER**
-**YARDIMCI KURUCU**: **KİLLER CYBER**
-**KURULMAMIZDA YARDIMI OLANLAR**: **Hileci777** , **LEGAL CYBER** , **???OTHERS**
+------------------------------------------------
