@@ -1,0 +1,17 @@
+--modular--
+use os_detector
+run
+use network_scan
+set timeout 1
+run
+
+--exploiter--
+set LHOST 127.0.0.1
+set LPORT 90
+set RHOST 72.156.23.9
+set RPORT 90
+use payloads/multi/handler
+run
+
+--console--
+exit
