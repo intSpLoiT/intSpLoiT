@@ -14,4 +14,13 @@ use payloads/multi/handler
 run
 
 --console--
+neofetch
+jobs -l
+oip 72.156.23.9
+network_scan
+
+--intbash-- OR --terminal--
+intmap 72.156.23.9
+pip3 install sqlmap
+sqlmap hackthissite.org
 exit
