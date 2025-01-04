@@ -8,3 +8,4 @@ Currently, we focus on penetration testing (Pentesting) and solving Capture the 
 # **other**
 ---------
 ![Popular Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Intikam21kurucu&layout=compact)
+![t](https://github-readme-stats.vercel.app/api?username=Intikam21kurucu&show_icons=true&theme=radical)
