@@ -5,7 +5,8 @@ Currently, we focus on penetration testing (Pentesting) and solving Capture the 
 # == İntros ==
 ![intro](https://github.com/Intikam21kurucu/intmages/blob/main/lv_0_20250104174243.gif)
 
-# **other**
----------
-![Popular Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Intikam21kurucu&layout=compact)
+# **Popular**
+--------
 ![stats](https://github-readme-stats.vercel.app/api?username=Intikam21kurucu&show_icons=true&theme=radical)
+
+![Popular Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Intikam21kurucu&layout=compact)
