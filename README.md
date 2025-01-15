@@ -3,7 +3,7 @@
 
 # **Popular**
 --------
-![stats](https://github-readme-stats.vercel.app/api?username=intSpLoiT &show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=intSpLoiT&show_icons=true&theme=radical)
 
 ![Popular Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intSpLoiT&layout=compact)
 
