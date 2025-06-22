@@ -9,5 +9,7 @@
 
 # *Repos*
 ==========
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intSpLoiT&repo=intframework-termux)](https://github.com/Intikam21kurucu/intframework-termux)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intSpLoiT&repo=intframework)](https://github.com/Intikam21kurucu/intframework)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intSpLoiT&repo=Sylph-intframework)](https://github.com/Intikam21kurucu/Sylph-intframework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intSpLoiT&repo=intframework-termux)](https://github.com/Intikam21kurucu/intframework-termux)
